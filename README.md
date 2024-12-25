@@ -10,7 +10,7 @@
 
 - Currently improving my skills in **TypeScript**, **Next.js**, and **Prisma**.
 
-- Check out my **[Portfolio](https://your-portfolio-link.com)** to explore my work.
+- Check out my **[Portfolio](https://nishatislam04.vercel.app/)** to explore my work.
 
 ---
 
