@@ -4,7 +4,7 @@
 ## 🚀 About Me
 - I am a **Full Stack Web Developer** with over a year of experience in building web applications.
 
-- Completed an internship at **SoftBD Ltd., Dhaka**, working with technologies like **Laravel, Livewire, Alpine.js**, and more.
+- Completed an internship at **SoftBD Ltd., Dhaka**, and continue to work here. Working with technologies like **Laravel, Next.js**, and more.
 
 - Skilled in creating **RESTful APIs**, optimizing databases, and using tools like **Docker** for project efficiency.
 
@@ -34,12 +34,11 @@
 ## 📞 Contact Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nishatislam3108@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/nishat-mazumder/))
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801641102404)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your-username)
-[![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)](https://m.me/your-username)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-username)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-link)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nio04)
+[![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)](https://m.me/nishat.mazumder.004)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/59N3kEuk)
 
 ---
 
@@ -47,9 +46,9 @@
 
 | **Name**                    | **Description**                                                                                                                                       | **Technology**                                    | **Link**                            |
 |-----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|-------------------------------------|
-| Organization Management     | A system with role-based permissions for managing organizations, subscriptions, installment tracking, and penalties.                                | Laravel, Livewire, Alpine.js, TailwindCSS, MySQL | [Repo](https://github.com/your-link) |
-| Jukto News                  | A news aggregation platform providing real-time updates and responsive user navigation.                                                              | Laravel, React, TailwindCSS, REST APIs           | [Repo](https://github.com/your-link) |
-| Pizza Fast Food             | A pizza ordering app with cart management, geolocation-based order tracking, and real-time updates from the server.                                 | React, Redux, Context API, TailwindCSS          | [Repo](https://github.com/your-link) |
+| Organization Management     | A system with role-based permissions for managing organizations, subscriptions, installment tracking, and penalties.                                | Laravel, Livewire, Alpine.js, TailwindCSS, MySQL | [Repo](https://github.com/nishatislam04/organizations) |
+| Jukto News                  | A news aggregation platform providing real-time updates and responsive user navigation.                                                              | Express.js, TailwindCSS, REST APIs           | [Live](https://news.jukto.com/) |
+| Pizza Fast Food             | A pizza ordering app with cart management, geolocation-based order tracking, and real-time updates from the server.                                 | React, Redux, Context API, TailwindCSS          | [Live](https://fast-react-pizza-five-gules.vercel.app/) |
 
 ---
 
