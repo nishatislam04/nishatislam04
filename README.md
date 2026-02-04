@@ -54,13 +54,5 @@
 | Jukto News Platform | A dynamic news aggregation platform with real-time updates, content management, and interactive user interface for enhanced engagement. | Laravel, React, MySQL, TailwindCSS, REST APIs | [Live](https://news.jukto.com/) |
 ---
 
-## 🏆 GitHub Stats
-
-![Minhajul Islam GitHub Stats](https://gitmystat.vercel.app/api?username=nishatislam04&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nishatislam04&layout=compact&theme=radical)
-
----
-
 ## 🏷️ Tags  
-`#JavaScript` `#React` `#Laravel` `#FullStackDeveloper` `#OpenSource` `#PHP` `#TailwindCSS` `#MySQL` `#WebDevelopment` `#Docker` `#GitHubPortfolio` `#JuniorSoftwareEngineer`
+`#JavaScript` `#React` `#Laravel` `#FullStackDeveloper` `#OpenSource` `#PHP` `#TailwindCSS` `#MySQL` `#WebDevelopment` `#Docker` `#JuniorSoftwareEngineer`
