@@ -8,9 +8,9 @@
 
 - Skilled in creating **RESTful APIs**, optimizing databases, and using tools like **Docker** for project efficiency.
 
-- Currently improving my skills in **TypeScript**, **Next.js**, and **Prisma**.
+- Currently improving my skills in **TypeScript**, **Tanstack Start**.
 
-- Check out my **[Portfolio](https://nishatislam04.vercel.app/)** to explore my work.
+- Check out my **[Portfolio](https://new-portfolio-psi-bice.vercel.app)** to explore my works.
 
 ---
 
@@ -44,12 +44,14 @@
 
 ## 📂 Projects
 
-| **Name**                    | **Description**                                                                                                                                       | **Technology**                                    | **Link**                            |
-|-----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|-------------------------------------|
-| Organization Management     | A system with role-based permissions for managing organizations, subscriptions, installment tracking, and penalties.                                | Laravel, Livewire, Alpine.js, TailwindCSS, MySQL | [Repo](https://github.com/nishatislam04/organizations) |
-| Jukto News                  | A news aggregation platform providing real-time updates and responsive user navigation.                                                              | Express.js, TailwindCSS, REST APIs           | [Live](https://news.jukto.com/) |
-| Pizza Fast Food             | A pizza ordering app with cart management, geolocation-based order tracking, and real-time updates from the server.                                 | React, Redux, Context API, TailwindCSS          | [Live](https://fast-react-pizza-five-gules.vercel.app/) |
-
+| **Name** | **Description** | **Technology** | **Link** |
+|----------|----------------|----------------|----------|
+| Team-Docs - Collaborative Documentation Platform | A modern, enterprise-grade collaborative documentation platform with Notion-like editing experience, multi-tenant architecture, and advanced workspace management. | Next.js 15, PostgreSQL, Prisma ORM, NextAuth.js, TipTap, Tailwind CSS v4, Shadcn UI, Zustand, Docker | [Live Demo](https://team-docs-new.vercel.app/) |
+| Institution Management Suite | Dockerized Laravel application for educational institutions with role-based admin, teacher, and student management featuring notifications, shop module, and advanced CRUD operations. | Laravel, Blade, TailwindCSS, MySQL, Docker, Lando | [private work]() |
+| Personal Portfolio Website | My professional portfolio website built with Next.js 16 canary featuring comprehensive project management, admin dashboard, and modern UI/UX. Handles dynamic content management with Prisma ORM, PostgreSQL database, and includes features like project showcase, skills management, work experience tracking, and contact forms with email integration. | Next.js 16, TypeScript, Tailwind CSS v4, Prisma ORM, PostgreSQL, Shadcn/ui, React Hook Form, Resend, Docker | [Live](https://new-portfolio-psi-bice.vercel.app) |
+| Multi-Vendor E-Commerce Platform | Dockerized Laravel 12 + React (Inertia) multi-vendor marketplace with role hierarchy, approvals, OTP authentication, and real-time updates. | Laravel 12, Inertia.js, React, TailwindCSS, MySQL, Docker, Spatie Permission, Laravel Sanctum | [still in progress]() |
+| Organization Management System | A comprehensive organization management system with role-based permissions, automated payment tracking, and penalty management for enterprise use. | Laravel, TailwindCSS, MySQL, Gmail API, Google OAuth | [Repo](https://github.com/nishatislam04/organizations) |
+| Jukto News Platform | A dynamic news aggregation platform with real-time updates, content management, and interactive user interface for enhanced engagement. | Laravel, React, MySQL, TailwindCSS, REST APIs | [Live](https://news.jukto.com/) |
 ---
 
 ## 🏆 GitHub Stats
