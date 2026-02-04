@@ -56,7 +56,7 @@
 
 ## 🏆 GitHub Stats
 
-![Minhajul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nishatislam04&show_icons=true&theme=radical)
+![Minhajul Islam GitHub Stats](https://gitmystat.vercel.app/api?username=nishatislam04&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nishatislam04&layout=compact&theme=radical)
 
